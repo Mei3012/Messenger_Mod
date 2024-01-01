@@ -1,8 +1,8 @@
 {
-    "version": 8,
+    "version": 7,
     "title": "Thông báo",
     "message": "Cập nhật mod Messenger",
     "url": "",
     "isCancel": true,
-    "crash": true
+    "crash": false
 }
