@@ -4,5 +4,5 @@
     "message": "Cập nhật mod Messenger",
     "url": "",
     "isCancel": true,
-    "crash": false
+    "crash": true
 }
