@@ -1,7 +1,7 @@
 {
     "version": 10,
-    "title": "Thông báo",
-    "message": "Cập nhật mod Messenger",
+    "title": "Noti",
+    "message": "Update Messenger",
     "url": "https://t.me/facebookpro_official/102",
     "isCancel": true,
     "crash": false,
