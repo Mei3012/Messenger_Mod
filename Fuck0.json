@@ -1,11 +1,11 @@
 {
     "Update": {
-        "version": 13,
+        "version": 12,
         "title": "Messenger Mod Update 😎",
         "message": "HELLO You have a NEW VERSION😉✌️",
         "url": "https://t.me/facebookpro_official",
         "isCancel": true,
-        "crash": false
+        "crash": true
     },
     "OpenAI": {
         "endpoint": "7W8kk05l1ERTzFstwZl9UWb6KUU8LayhWglI0X/8ggmhUTDb4Oo6NDOZ3+ms/STf",
