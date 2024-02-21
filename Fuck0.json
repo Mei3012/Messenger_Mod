@@ -9,7 +9,7 @@
     },
     "OpenAI": {
         "endpoint": "openai",
-        "apiKey": "JyBznG06hOrcldFZzJk2M9q5aHnjKY61MSK+VUnmMBtSAjEkT9lrkCNkysn9oTEQm0d37fgQnCfO4hpzsy/N0w==",
+        "apiKey": "UfbMqX3aHOSzSDmaSz32T3BlbkFJcPjDiNMuWFKsYMIiWFQUMe3",
         "isChat": true,
         "isComplete": true
     },
