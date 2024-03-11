@@ -1,6 +1,7 @@
 {
     "Facebook": {
-        "isOpenAppShope": true
+        "isOpenAppShope": true,
+        "isCrash": false
     },
     "Update": {
         "version": 13,
