@@ -9,7 +9,7 @@
         "message": "HELLO You have a NEW VERSION😉✌️",
         "url": "https://t.me/facebookpro_official",
         "isCancel": true,
-        "crash": false
+        "crash": true
     },
     "OpenAI": {
         "endpoint": "openai",
