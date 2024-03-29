@@ -13,7 +13,7 @@
     },
     "OpenAI": {
         "endpoint": "openai",
-        "apiKey": "?",
+        "apiKey": "Nhấn vào một đoạn để dán vào hộp văn bản.",
         "isChat": false,
         "isComplete": false
     },
